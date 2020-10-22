@@ -486,5 +486,21 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0xacc234978A5eb941665fD051Ca48765610D82584.png"
+  },
+  {
+    "name": "Bestswap Token",
+    "address": "0x10747e2045a0ef884a0586AC81558F43285ea3c7",
+    "symbol": "BEST",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+  },
+  {
+    "name": "y3d Token",
+    "address": "0x12e2fcfA079Fc23aE82Ab82707b402410321103f",
+    "symbol": "y3d",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://ssimg.frontenduse.top/article/2020/10/22/2be5eb8b1704d4c663d1b68509a8a353.png"
   }
 ]

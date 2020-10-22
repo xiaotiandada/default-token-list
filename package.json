@@ -1,6 +1,6 @@
 {
-  "name": "@bscswap/default-token-list",
-  "version": "1.9.20",
+  "name": "best-default-token-list",
+  "version": "1.9.24",
   "description": "◦ The BSCswap default token list",
   "main": "build/tokens.json",
   "scripts": {
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bscswap/default-token-list.git"
+    "url": "git+https://github.com/xiaotiandada/default-token-list.git"
   },
   "keywords": [
     "bscswap",
@@ -21,12 +21,12 @@
     "token",
     "list"
   ],
-  "author": "Moody Salem",
+  "author": "xiaotian",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/bscswap/default-token-list/issues"
+    "url": "https://github.com/xiaotiandada/default-token-list/issues"
   },
-  "homepage": "https://github.com/bscswap/default-token-list#readme",
+  "homepage": "https://github.com/xiaotiandada/default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.8",
